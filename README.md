@@ -1,88 +1,118 @@
 # Koteeswaran T
-Senior Technical Project Manager | IT Delivery | Agile & Scrum | API-Driven Platforms
+Senior Technical Project Manager | AI-Enabled Delivery Leader | API & Architecture-Focused Platforms
 
 ---
 
 ## 👋 About Me
 
-I am a Senior Technical Project Manager with 10+ years of professional experience and 5+ years in IT delivery across integration-driven platforms.
+I am a Senior Technical Project Manager with 10+ years of professional experience and 5+ years in IT delivery across integration-driven platforms, transactional systems, and scalable web environments.
 
-My expertise includes:
+I operate at the intersection of:
 
-- End-to-End SDLC Governance
-- Agile (Scrum) Delivery Leadership
-- REST API Integration Coordination
-- Release & Deployment Management
-- Risk & Issue Management (RAID Logs)
-- Production Stability & RCA Handling
+• Delivery Governance  
+• Technical Architecture Awareness  
+• API-Driven Systems  
+• AI-Assisted Product Development  
 
-I specialize in managing integration-heavy systems and leading cross-functional technical teams to deliver stable production environments.
+I combine structured SDLC execution with AI-enabled workflow optimization to accelerate delivery while maintaining governance and production stability.
 
 ---
 
-## 🚀 Delivery Expertise
+## 🧠 AI-Enabled Delivery Approach
 
-### 🔹 IT Delivery & Governance
-- Project Charter & Scope Definition
-- Milestone & Release Planning
-- Change Control & Scope Governance
-- Escalation Handling & RCA
+I actively leverage AI tools to enhance:
 
-### 🔹 Agile & Scrum
-- Sprint Planning
-- Backlog Grooming
-- Daily Standups
-- Sprint Reviews & Retrospectives
+• Requirement Structuring  
+• Technical Architecture Planning  
+• Database Schema Drafting  
+• API Flow Documentation  
+• Risk Identification  
+• Release Checklist Automation  
+• UAT Scenario Generation  
 
-### 🔹 Integration Management
-- REST API Integrations
-- Payment Gateway Integrations
-- Third-Party System Dependencies
-- Sandbox to Production Migration
+AI is used as an acceleration layer — not a replacement for engineering discipline.
 
 ---
 
-## 💼 Professional Experience Snapshot
+## 🏗 Architecture & Integration Exposure
+
+### 🔹 Backend & System Understanding
+- PHP Application Architecture (Modular Structure)
+- MySQL Schema Design (Relational Modeling)
+- REST API Communication Patterns
+- Third-Party Integration Governance
+- Authentication & Role-Based Access Concepts
+
+### 🔹 Deployment & Environment
+- Shared Hosting Environments
+- Linux-Based Deployment Coordination
+- Sandbox → Staging → Production Lifecycle
+- Migration Risk Mitigation
+
+---
+
+## 🚀 Professional Delivery Experience
 
 ### B&G Technologies (2025)
 Senior Project Manager – API-Driven Gaming Platform
-- Led multi-API integration platform
-- Governed staging-to-production migration
-- Managed war-room escalation
-- Ensured stable go-live
+
+- Led multi-API integration platform implementation
+- Governed production migration lifecycle
+- Conducted war-room escalation during integration delays
+- Resolved deployment configuration issues via structured RCA
+
+---
 
 ### FABC (2023–2025)
-Technical Project Manager – Web3 Gaming Platform
-- Delivered crypto-enabled transactional system
-- Managed Agile sprint cycles
-- Governed release & deployment workflows
+Technical Project Manager – Web3 Platform
+
+- Delivered crypto-enabled transactional ecosystem
+- Managed wallet-based transaction workflow alignment
+- Led Agile sprint cycles and release governance
+- Oversaw third-party API integrations within distributed systems
+
+---
 
 ### GameNation (2021–2023)
 Delivery Lead – eCommerce Platform
+
 - Spearheaded transactional marketplace development
-- Led courier API integrations
-- Managed milestone-based delivery
+- Implemented courier API integrations
+- Governed milestone-based phased delivery model
+
+---
+
+## 📂 Portfolio Projects
+
+### EVKart Pro – eCommerce System (PHP + MySQL)
+
+AI-assisted architecture planning and structured backend design including:
+
+- Role-Based Admin Workflow
+- Payment Configuration Logic
+- Order Lifecycle Tracking
+- Deployment Validation
 
 ---
 
 ## 🛠 Tools & Platforms
 
-Jira | ClickUp | MS Project | REST APIs | PHP | MySQL | Linux Hosting | Git (Basic)
+Jira | ClickUp | MS Project | REST APIs | PHP | MySQL | Linux Hosting | Git | AI-Assisted Documentation
 
 ---
 
 ## 📈 Career Focus
 
-Currently exploring opportunities in:
+Open to roles in:
 
-- IT Delivery Management
-- Technical Project Management
-- Agile Project Leadership
-- Integration-Driven Product Environments
+• Technical Project Management  
+• AI-Integrated Delivery Environments  
+• Integration-Driven Product Teams  
+• Architecture-Aware IT Delivery  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 LinkedIn: https://linkedin.com/in/koteeswaran-t-b0371a398  
 Email: koteeswaran.t@hotmail.com  
